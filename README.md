@@ -27,13 +27,6 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 [<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" >](https://github.com/samuelkeullen)
 
 
-#### What Can You Do? 
-
-> "Look, Visitor, Everything The Sun Touches Are Our Possibilities"
-
- <img align="top" whidth="10px" heigth="10px" src="http://www.islandofbob.com/uploads/1/2/9/1/12913710/6306498.jpg?188" />
-
-#
 
 #### My Skills:
 
