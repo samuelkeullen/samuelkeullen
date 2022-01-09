@@ -12,21 +12,28 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 ### Maybe You Have Some Questions? Like....
 
-<img width="380px" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=samuelkeullen&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?">
+<img width="380px" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?">
 
-<img width="320px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkeullen&layout=compact%22>
+<img width="320px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ricardo&layout=compact">
 
 </br>
 
 ### Where Find Me?
 
-[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Keullen&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-keullen-passos-b43a33189/)
-[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Keullen&color=red&style=for-the-badge&logo=Github)](https://github.com/samuelkeullen)
+[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-keullen-passos-b43a33189/)
+[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=red&style=for-the-badge&logo=Github)](https://github.com/samuelkeullen)
 
 [<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/samuel-keullen-passos-b43a33189/)
 [<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" >](https://github.com/samuelkeullen)
 
 
+#### What Can You Do? 
+
+> "Look, Visitor, Everything The Sun Touches Are Our Possibilities"
+
+ <img align="top" whidth="10px" heigth="10px" src="http://www.islandofbob.com/uploads/1/2/9/1/12913710/6306498.jpg?188" />
+
+#
 
 #### My Skills:
 
