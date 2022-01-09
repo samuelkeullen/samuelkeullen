@@ -20,8 +20,8 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 ### Where Find Me?
 
-[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-keullen-passos-b43a33189/)
-[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=red&style=for-the-badge&logo=Github)](https://github.com/samuelkeullen)
+[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Keullen&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-keullen-passos-b43a33189/)
+[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Keullen&color=red&style=for-the-badge&logo=Github)](https://github.com/samuelkeullen)
 
 [<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/samuel-keullen-passos-b43a33189/)
 [<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" >](https://github.com/samuelkeullen)
