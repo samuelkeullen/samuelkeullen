@@ -1,4 +1,4 @@
-# Hi You found me! :upside_down_face: 👋
+# Hi! How are you? I hope you're well
 
 I am Brazilian :brazil: full stack programmer with a complete passion for programming, especially for Data Science
 
