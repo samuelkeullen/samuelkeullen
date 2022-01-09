@@ -4,8 +4,6 @@ I am Brazilian :brazil: full stack programmer with a complete passion for progra
 
 The first language I learned and I'm proud to have been the first is dear Java :coffee: ❤️
 
-<img align="bottom" width="200px" src= "https://media.giphy.com/media/ROyijmazFKRc4/giphy.gif" />
-
 #
 
 By the way, since you found me, take your best coffee cup, and let's explore a little bit of my world  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
