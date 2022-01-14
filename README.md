@@ -59,17 +59,6 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 
 <!--
-[![Cartão ReadMe](https://github-readme-stats.vercel.app/api/pin/?Username=Samuel-Ricardo&repo=Netflix-Clone)](https://github.com/Samuel-Ricardo/Netflix-Clone)
-
-
-<img align="right" width="250px" height="420px" src="https://github.com/Samuel-Ricardo/Samuel-Ricardo/blob/master/vs.jpeg">
-
-<!--
-**Samuel-Ricardo/Samuel-Ricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Congratulations On Getting Here
-</br>
-![VisitorCount](https://profile-counter.glitch.me/Samuel-Ricardo/count.svg)
 
 Here are some ideas to get you started:
 
