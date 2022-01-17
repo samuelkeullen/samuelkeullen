@@ -1,6 +1,6 @@
 # Hi! How are you? I hope you're well
 
-I am Brazilian :brazil: full stack programmer with a complete passion for programming, especially for Data Science
+I am Brazilian :brazil: Full-Stack Programmer and a Data Scientist
 
 The first language I learned and I'm proud to have been the first is dear Java :coffee: ❤️
 
