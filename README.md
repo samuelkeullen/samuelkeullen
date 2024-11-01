@@ -34,7 +34,7 @@ By the way, since you found me, grab your favorite coffee cup, and let's explore
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img width="50px" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon.png">
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdqZtNGxvrdNVWQ7PuYQFD3LkoJXdJcs4bg&s"> <!-- Assembly -->
+  <img width="50px" src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png"> <!-- Assembly -->
   <img width="50px" src="https://scipy.org/images/logo.svg">
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
