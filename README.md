@@ -33,26 +33,25 @@ By the way, since you found me, grab your favorite coffee cup, and let's explore
 <div>
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img width="50px" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon.png">
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg">
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg">
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg">
 </div>
 
 #### Additional Skills:
 
-- C/C++
+- C++
 - Assembly
 - NextJS
 - NestJS
 - ExpressJS
-- Scipy
+- GraphQL
+- SQL
+- MongoDB
+- Docker
 - Jupyter Notebook
+- ElasticSearch
 - Other frameworks related to Data Science
 
 #
