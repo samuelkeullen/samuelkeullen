@@ -43,7 +43,6 @@ By the way, since you found me, grab your favorite coffee cup, and let's explore
 #### Additional Skills:
 
 - C++
-- Assembly
 - NextJS
 - NestJS
 - ExpressJS
