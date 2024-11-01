@@ -31,11 +31,12 @@ By the way, since you found me, grab your favorite coffee cup, and let's explore
 #### My Skills:
 
 <div>
+  #### My Skills:
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img width="50px" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon.png">
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg">
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg">
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"> <!-- Substituto para SciPy -->
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
