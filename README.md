@@ -18,7 +18,7 @@
 ---
 
 ## 📫 Contact
-✉️ [samkeullendatascientist@gmail.com](mailto:samkeullendatascientist@gmail.com)
+✉️ [samuel_keullen@noryacorp.com](mailto:samuel_keullen@noryacorp.com)
 
 ---
 
