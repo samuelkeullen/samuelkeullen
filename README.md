@@ -1,25 +1,38 @@
 # 👋 Hi, I'm Samuel Keullen
 
-🌟 **Exploring Relativity, Quantum Physics & Data Science with Python**
-
-🔬 **Physicist & Data Scientist** | 🌌 **Relativity & ⚛️ Quantum Physics** | 🐍 Python 💻
+🚀 **Full-Stack Developer & Data Scientist**
+🔬 Bridging **Physics**, **Software Engineering**, and **Data-Driven Solutions**
 
 ---
 
 ## 🔭 Current Focus
-- 🌌 **Special & General Relativity (SR & GR)** – full scope  
-- ⚛️ **Quantum Physics** – theory and practical applications  
-- 🐍 **Practical applications of physics using Python**  
 
-## 💡 Highlighted Projects
-- 🧪 [**physics-lab**](https://github.com/samuelkeullen/physics-lab) – Step-by-step exercises covering Special & General Relativity with Python  
-- 🔧 **Upcoming projects:** physics applications integrated with **Data Science & Machine Learning**
+* 🖥️ **Full-Stack Development** — scalable, performant, and modern applications
+* 📊 **Data Science & Machine Learning** — applied analytics, modeling, and automation
+* 🌌 **Physics & Computational Modeling** — practical implementations using Python
+
+---
+
+## 🧠 Technical Expertise
+
+### **Programming Languages**
+
+* **Python**, **Scala**, **JavaScript / TypeScript**
+* **C / C++**, **C#**, **Rust**, **Assembly**
+
+### **Domains**
+
+* Full-Stack Web Development
+* Data Science & Machine Learning
+* High-Performance & Low-Level Computing
+* Scientific Computing & Simulation
 
 ---
 
 ## 📫 Contact
+
 ✉️ [samuel_keullen@noryacorp.com](mailto:samuel_keullen@noryacorp.com)
 
 ---
 
-*Creating practical and visually engaging projects bridging physics and data science.*
+*Crafting reliable, scalable, and insightful solutions across software engineering and data science.*
